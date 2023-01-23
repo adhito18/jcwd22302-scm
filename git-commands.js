@@ -4,3 +4,6 @@
 // 4. git log
 // 5. git remote add origin https://github.com/adhito18/jcwd22302-scm.git (warning first inisiate)
 // 6. git push origin master
+
+
+// 1. git checkout -b adhito_newvarialbe
